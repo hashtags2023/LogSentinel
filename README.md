@@ -201,7 +201,7 @@ This tool is intended for **authorized security testing, blue team practice, and
 **Lori (hashtags2023)**
 B.S. Computer Science — CSU Sacramento | Cybersecurity & AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lori-cs-security)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hashtags2023)
 
 ---
