@@ -7,3 +7,7 @@ reports/*.json
 .DS_Store
 *.log
 !sample_logs/
+.env
+.env.*
+venv/
+.venv/
